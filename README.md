@@ -1,4 +1,4 @@
-librarian [:books:](href="https://openbiblio.social/@rudzick"){:rel="me"}, physicist :zap:, cyclist :bicyclist:, allotment holder :house_with_garden:, openstreetmapper
+librarian [:books:](https://openbiblio.social/@rudzick){:rel="me"}, physicist :zap:, cyclist :bicyclist:, allotment holder :house_with_garden:, openstreetmapper
 
 <!--
 **rudzick/rudzick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
